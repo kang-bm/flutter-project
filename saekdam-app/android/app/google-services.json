@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1020788872292",
+    "project_id": "saekdam-app",
+    "storage_bucket": "saekdam-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1020788872292:android:f03bcad99e4f8af3d8bb71",
+        "android_client_info": {
+          "package_name": "com.example.fly_ai_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1020788872292-iu17ghbdhl0jlpba277qmekp04nt2rp7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fly_ai_1",
+            "certificate_hash": "b342292c3d72c37af1200007758d9bf5ce32b5f5"
+          }
+        },
+        {
+          "client_id": "1020788872292-nfh7eq80hd8aacvkknr3hqalh0tqcb89.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDY3BJdJxs-QLLyVVqEKtcF1gZ_GE4n30c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1020788872292-nfh7eq80hd8aacvkknr3hqalh0tqcb89.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
